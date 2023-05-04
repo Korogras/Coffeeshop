@@ -10,7 +10,7 @@
 const coffeeMenu = [
     {
         name: "cappuccino",
-        price: "8",
+        price: 8,
         seasonal: false,
     },
     {
@@ -25,12 +25,12 @@ const coffeeMenu = [
     },
     {
         name: "affogato",
-        price: "9",
+        price: 9,
         seasonal: true,
     }, 
     {
         name: "macchiato",
-        price: "6",
+        price: 6,
         seasonal: false,
     },
     {
@@ -40,12 +40,12 @@ const coffeeMenu = [
     },
     {
         name: "iced coffee",
-        price: "6",
+        price: 6,
         seasonal: false,
     },
     {
         name: "frappe",
-        price: "8",
+        price: 8,
         seasonal: false,
     },
     {
